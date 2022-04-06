@@ -1,8 +1,11 @@
 package day0;
 
 public class First {
-    //TODO: Works on this tomorrow
-    // add some code
+
+    public static void main(String[] args) {
+        System.out.println("java");
+        System.out.println("Working...");
+    }
 
 
     // extra line1
